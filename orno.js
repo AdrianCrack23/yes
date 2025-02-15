@@ -1,11 +1,21 @@
 // ==UserScript==
 // @name         Google Fuck You
-// @namespace    http://violentmonkey.net/
-// @version      1.6
-// @description  Yo
+// @namespace    https://example.com
+// @homepage     https://example.com
+// @version      6.9
+// @encoding     utf-8
+// @description  A beautiful thing ruined by a period
 // @author       L.L.
 // @match        *://*/*
-// @grant        GM_xmlhttpRequest
+// @compatible   chrome
+// @compatible   firefox
+// @compatible   opera
+// @compatible   safari
+// @compatible   edge
+// @downloadURL  https://raw.githubusercontent.com/AdrianCrack23/yes/refs/heads/main/orno.js
+// @updateURL    https://raw.githubusercontent.com/AdrianCrack23/yes/refs/heads/main/orno.js
+// @grant        GM.xmlHttpRequest
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
