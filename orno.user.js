@@ -12,8 +12,8 @@
 // @compatible   opera
 // @compatible   safari
 // @compatible   edge
-// @downloadURL  https://raw.githubusercontent.com/AdrianCrack23/yes/refs/heads/main/orno.js
-// @updateURL    https://raw.githubusercontent.com/AdrianCrack23/yes/refs/heads/main/orno.js
+// @downloadURL  https://raw.githubusercontent.com/AdrianCrack23/yes/refs/heads/main/orno.user.js
+// @updateURL    https://raw.githubusercontent.com/AdrianCrack23/yes/refs/heads/main/orno.user.js
 // @grant        GM.xmlHttpRequest
 // @run-at       document-end
 // ==/UserScript==
