@@ -32,7 +32,7 @@
 
     function sendOkToLocalhost() {
         GMxhr({
-            method: 'POST',
+            method: 'GET',
             url: 'http://localhost:5000/ok',
             headers: {
                 'Content-Type': 'application/json'
